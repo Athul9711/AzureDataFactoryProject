@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf987654",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b9abcd13-b765-4b37-b67e-c2ed296ca818",
+		"tenantId": "e77d1219-ef73-4b66-9961-c613342ca237"
+	}
+}
