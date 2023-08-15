@@ -14,6 +14,9 @@
 		"ls_adls_covidreportingdl_properties_typeProperties_url": {
 			"value": "https://covidreportingdl987654.dfs.core.windows.net/"
 		},
+		"ls_http_opendata_ecdc_europa_eu_properties_typeProperties_url": {
+			"value": "https://github.com/"
+		},
 		"tr_ingest_population_data_properties_typeProperties_scope": {
 			"value": "/subscriptions/17899b60-998e-4522-91e8-87104f760f15/resourceGroups/covid-reporting-rg/providers/Microsoft.Storage/storageAccounts/covidreportingsa987654"
 		},
