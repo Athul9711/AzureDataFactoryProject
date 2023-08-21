@@ -33,7 +33,7 @@
 					"name": "FilterEuropeOnly"
 				},
 				{
-					"name": "SelectOnlRequiredFields"
+					"name": "SelectOnlyRequiredFields"
 				},
 				{
 					"name": "PivotCounts"
@@ -82,8 +82,8 @@
 				"               'reported'+'_date' = $$)",
 				"     ),",
 				"     skipDuplicateMapInputs: false,",
-				"     skipDuplicateMapOutputs: false) ~> SelectOnlRequiredFields",
-				"SelectOnlRequiredFields pivot(groupBy(country,",
+				"     skipDuplicateMapOutputs: false) ~> SelectOnlyRequiredFields",
+				"SelectOnlyRequiredFields pivot(groupBy(country,",
 				"          country_code,",
 				"          population,",
 				"          source,",
