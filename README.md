@@ -1,1 +1,1 @@
-# AzureDataFactoryProject
+Implemented an Azure Data actory data engineering solution for COVID-19 trend analysis and spread prediction.Ingested data from ECDC website and Azure blob storage, then used data pipelines to transform and load it into Azure Data Lake Storage Gen2.
